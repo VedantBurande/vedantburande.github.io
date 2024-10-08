@@ -1862,19 +1862,6 @@ footer h2 a {
   50% { border-color: black; }
 }
 
-.typing-container {
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 2rem;
-  position: relative;
-}
-
-.cursor {
-  display: inline-block;
-  width: 10px;
-  background-color: black;
-  animation: blink 0.7s infinite;
-}
-
 @keyframes blink {
   50% { opacity: 0; }
 }
